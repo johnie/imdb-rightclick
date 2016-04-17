@@ -6,6 +6,12 @@ Chrome Extension for searching selected text in The Internet Movie Database [imd
 
 ## Install
 
+### Chrome Web Store
+
++ [IMDb Rightclick](https://chrome.google.com/webstore/detail/jblcaejnlliopglmjcihnndobjpngmlp/)
+
+### Manually
+
 + In Chrome open extensions. Window -> Extensions. Or goto this url in the Chrome address bar ``open chrome://extensions/``
 + Click + Developer mode
 + Click Load unpacked extension…
